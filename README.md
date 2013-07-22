@@ -1,5 +1,5 @@
 dalek-internal-timer
-=========================
+====================
 
 > DalekJS internal module for time measurement
 
@@ -8,6 +8,10 @@ dalek-internal-timer
 [![Dependency Status](https://david-dm.org/dalekjs/dalek-internal-timer.png)](https://david-dm.org/dalekjs/dalek-internal-timer)
 [![devDependency Status](https://david-dm.org/dalekjs/dalek-internal-timer/dev-status.png)](https://david-dm.org/dalekjs/dalek-internal-timer#info=devDependencies)
 [![NPM version](https://badge.fury.io/js/dalek-internal-timer.png)](http://badge.fury.io/js/dalek-internal-timer)
+[![Coverage](http://dalekjs.com/package/dalek-internal-timer/master/coverage/coverage.png)](http://dalekjs.com/package/dalek-internal-timer/master/coverage/index.html)
+[![unstable](https://rawgithub.com/hughsk/stability-badges/master/dist/unstable.svg)](http://github.com/hughsk/stability-badges)
+
+[![NPM](https://nodei.co/npm/dalek-internal-timer.png)](https://nodei.co/npm/dalek-internal-timer/)
 
 ## Warning
 
@@ -16,7 +20,8 @@ It provides a timer library used by DalekJS.
 
 ## Ressources
 
-[API Documentation](http://dalekjs.com/package/dalek-internal-timer/master/api/index.html) -
+[API Docs](http://dalekjs.com/package/dalek-internal-timer/master/api/index.html) -
+[Trello](https://trello.com/b/NFadVJdi/dalek-internal-timer) -
 [Code coverage](http://dalekjs.com/package/dalek-internal-timer/master/coverage/index.html) -
 [Code complexity](http://dalekjs.com/package/dalek-internal-timer/master/complexity/index.html) -
 [Contributing](https://github.com/dalekjs/dalek-internal-timer/blob/master/CONTRIBUTING.md) -
