@@ -12,11 +12,7 @@ dalek-internal-timer
 [![unstable](https://rawgithub.com/hughsk/stability-badges/master/dist/unstable.svg)](http://github.com/hughsk/stability-badges)
 
 [![NPM](https://nodei.co/npm/dalek-internal-timer.png)](https://nodei.co/npm/dalek-internal-timer/)
-
-## Warning
-
-This module is only used internally by [DalekJS](//github.com/dalekjs/dalek).
-It provides a timer library used by DalekJS.
+[![NPM](https://nodei.co/npm-dl/dalek-internal-timer.png)](https://nodei.co/npm/dalek-internal-timer/)
 
 ## Ressources
 
@@ -27,6 +23,11 @@ It provides a timer library used by DalekJS.
 [Contributing](https://github.com/dalekjs/dalek-internal-timer/blob/master/CONTRIBUTING.md) -
 [Homepage](http://dalekjs.com) -
 [Twitter](http://twitter.com/dalekjs)
+
+## Docs
+
+This module is only used internally by [DalekJS](//github.com/dalekjs/dalek).
+It provides a timer library used by DalekJS.
 
 ## Help Is Just A Click Away
 
